@@ -14,7 +14,7 @@ using Etourwebapplication.Models;
 namespace Etourwebapplication.Controllers
 {
     [RoutePrefix("api/cost")]
-    [EnableCors(origins: "*", headers: "*", methods: "*")]
+    [EnableCors(origins: "http://localhost:3000", headers: "*", methods: "*")]
     public class costsController : ApiController
     {
         private Costmodel db = new Costmodel();

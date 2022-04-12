@@ -13,7 +13,7 @@ using Etourwebapplication.Models;
 
 namespace Etourwebapplication.Controllers
 {
-    [EnableCors(origins: "*", headers: "*", methods: "*")]
+    [EnableCors(origins: "http://localhost:3000", headers: "*", methods: "*")]
     [RoutePrefix("api/passanger")]
     public class passangersController : ApiController
     {
@@ -145,8 +145,9 @@ namespace Etourwebapplication.Controllers
             return StatusCode(HttpStatusCode.NoContent);
         }
 
-        // POST: api/passangers
-        [ResponseType(typeof(passanger))]
+        // POST: api/passanger/postpassanger
+        [Route("postpassanger")]
+        [HttpPost]
         public IHttpActionResult Postpassanger(passanger passanger)
         {
             if (!ModelState.IsValid)

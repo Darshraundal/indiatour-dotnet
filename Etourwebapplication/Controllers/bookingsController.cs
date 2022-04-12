@@ -13,7 +13,7 @@ using Etourwebapplication.Models;
 
 namespace Etourwebapplication.Controllers
 {
-    [EnableCors(origins: "*", headers: "*", methods: "*")]
+   [EnableCors(origins: "http://localhost:3000", headers: "*", methods: "*")]
     [RoutePrefix("api/bookingtour")]
     public class bookingsController : ApiController
     {

@@ -85,7 +85,6 @@ C:\CDAC vita\A Final DotnerFramework Project\New folder\Etourwebapplication\Etou
 C:\CDAC vita\A Final DotnerFramework Project\New folder\Etourwebapplication\Etourwebapplication\bin\System.Web.WebPages.Razor.xml
 C:\CDAC vita\A Final DotnerFramework Project\New folder\Etourwebapplication\Etourwebapplication\bin\Antlr3.Runtime.pdb
 C:\CDAC vita\A Final DotnerFramework Project\New folder\Etourwebapplication\Etourwebapplication\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
-C:\CDAC vita\A Final DotnerFramework Project\New folder\Etourwebapplication\Etourwebapplication\obj\Debug\Etourwebapplication.csproj.AssemblyReference.cache
 C:\CDAC vita\A Final DotnerFramework Project\New folder\Etourwebapplication\Etourwebapplication\obj\Debug\Etourwebapplication.csproj.CoreCompileInputs.cache
 C:\CDAC vita\A Final DotnerFramework Project\New folder\Etourwebapplication\Etourwebapplication\obj\Debug\Etourwebapplication.csproj.CopyComplete
 C:\CDAC vita\A Final DotnerFramework Project\New folder\Etourwebapplication\Etourwebapplication\obj\Debug\Etourwebapplication.dll
